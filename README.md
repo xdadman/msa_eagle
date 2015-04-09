@@ -5,5 +5,9 @@ See http://scottyspectrumanalyzer.com/ website for detailed information how to b
 
 The files and in Eagle 7.1 format.
 
+Most of the parts in the MSA library have defined Farnell order codes.
+The rest are from Digikey and Minicircuits.
+
+
 
 
